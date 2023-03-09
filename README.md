@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Let's say hiiiii
 currently studying...
-[![My Skills](https://skillicons.dev/icons?i=java,tensorflow,py,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,tensorflow,py)](https://skillicons.dev)
