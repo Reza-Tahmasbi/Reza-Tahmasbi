@@ -8,7 +8,7 @@
 
    🌱 While reading a few papers, I am taking some courses (python, ML and DL) on Coursera
  
-   ⚡Fun fact: I love nerds
+   ⚡Fun fact: I love Hafiz
 <!--
 **WexQuasExort/WexQuasExort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
