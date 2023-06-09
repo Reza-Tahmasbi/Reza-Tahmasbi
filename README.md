@@ -1,5 +1,14 @@
+About me:
 ### Let's Say hiiiii 👋
+### This is Reza
 
+  🥅 My goal is to become an AI researcher and Data Scientist
+
+  🔭 I'm currently working on a paper about multilingual handwritten digits recognition (Image processing)
+
+  🌱 While reading a few papers, I am taking some courses (python, ML and DL) on Coursera
+
+  ⚡Fun fact: I love nerds
 <!--
 **WexQuasExort/WexQuasExort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-currently learning... #Deep<br><br>
+Let's go Deeper<br><br>
 [![My Skills](https://skillicons.dev/icons?i=java,tensorflow,py)](https://skillicons.dev)
