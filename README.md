@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Let's go Deeper<br><br>
+<br><br>
 [![My Skills](https://skillicons.dev/icons?i=java,tensorflow,py)](https://skillicons.dev)
