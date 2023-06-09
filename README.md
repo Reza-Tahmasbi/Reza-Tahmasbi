@@ -1,14 +1,14 @@
-About me:
+## About me:
 ### Let's Say hiiiii 👋
-### This is Reza
+#### This is Reza
 
-  🥅 My goal is to become an AI researcher and Data Scientist
+   🥅 My goal is to become an AI researcher and Data Scientist
 
-  🔭 I'm currently working on a paper about multilingual handwritten digits recognition (Image processing)
+   🔭 I'm currently working on a paper about multilingual handwritten digits recognition (Image processing)
 
-  🌱 While reading a few papers, I am taking some courses (python, ML and DL) on Coursera
-
-  ⚡Fun fact: I love nerds
+   🌱 While reading a few papers, I am taking some courses (python, ML and DL) on Coursera
+ 
+   ⚡Fun fact: I love nerds
 <!--
 **WexQuasExort/WexQuasExort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
