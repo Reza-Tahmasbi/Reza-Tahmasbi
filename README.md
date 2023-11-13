@@ -4,7 +4,7 @@
 
    🥅 My goal is to become an AI researcher and Data Scientist
 
-   🔭 I'm currently working on a paper about multilingual handwritten digits recognition (Image processing)
+   🔭 I'm currently working on a paper about multimodel open-vocabulary contrasive learning!
 
    🌱 While reading a few papers, I am taking some courses (python, ML and DL) on Coursera
  
