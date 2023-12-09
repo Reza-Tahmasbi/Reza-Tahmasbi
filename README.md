@@ -8,7 +8,7 @@
 
    🌱 While reading a few papers, I am taking some courses (python, ML and DL) on Coursera
  
-   ⚡Fun fact: I like it when I make the loss function negetive :)
+   ⚡Fun fact: I like it when I make the loss negetive during training :)
    
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,py)](https://skillicons.dev)
