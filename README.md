@@ -11,4 +11,4 @@
    ⚡Fun fact: I like it when I make the loss function negetive :)
    
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=java,tensorflow,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,py)](https://skillicons.dev)
