@@ -2,7 +2,7 @@
 ### This is Reza  
 #### 🚀 Here is my stack:
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,opencv,pytorch,tensorflow,docker,fastapi,flask,elasticsearch,aws,postgres,sqlite,git,ubuntu,linux,dart,flutter,androidstudio,vscode,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,opencv,pytorch,tensorflow,docker,fastapi,flask,elasticsearch,postgres,sqlite,git,ubuntu,linux,dart,flutter,androidstudio,vscode,firebase)](https://skillicons.dev)
 
 ---
 
