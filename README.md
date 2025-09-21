@@ -14,7 +14,7 @@ Hi, I'm Reza — an enthusiastic **AI Engineer & Researcher** with a passion for
 
 ### 💼 What I Do
 
-- 🔬 Research and develop cutting-edge AI/ML models  
+- 🔬 Research and develop AI/ML models  
 - 📱 Design and build cross-platform apps using Flutter  
 - ⚙️ Deploy and scale ML solutions with MLOps best practices  
 - 🚀 Build and serve APIs using FastAPI, Flask, and containerized services  
@@ -27,7 +27,7 @@ Hi, I'm Reza — an enthusiastic **AI Engineer & Researcher** with a passion for
 - **Languages:** Python, Dart, R  
 - **Machine Learning & Deep Learning:** PyTorch, TensorFlow, scikit-learn  
 - **Model Deployment & APIs:** FastAPI, Flask  
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, Elasticsearch  
+- **DevOps & Cloud:** Docker, Elasticsearch  
 - **Databases:** MySQL, PostgreSQL, SQLite  
 - **Mobile Development:** Flutter, Firebase, Android Studio  
 - **Environments & Tools:** Git, Ubuntu, VS Code  
